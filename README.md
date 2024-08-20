@@ -1,2 +1,2 @@
-#ROCK PAPER SCISSOR Instant play game 
+# ROCK PAPER SCISSOR Instant play game 
 Rock, Paper, Scissors is a simple hand game usually played between two people. Each player simultaneously forms one of three shapes with an outstretched hand: rock (a fist), paper (an open hand), or scissors (a fist with the index and middle fingers extended, forming a V). The game has three possible outcomes: rock crushes scissors, scissors cut paper, and paper covers rock. If both players choose the same shape, the game is a tie. It's often used as a decision-making tool or as a fun, quick game to pass time. The game requires no equipment and is easy to play anywhere.
